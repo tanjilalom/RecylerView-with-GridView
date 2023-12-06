@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+
+    <string-array name="country_Names">
+        <item>Argentina</item>
+        <item>Bangladesh</item>
+        <item>Brazil</item>
+        <item>India</item>
+        <item>Netherland</item>
+        <item>Pakistan</item>
+        <item>United Kingdom</item>
+        <item>United States of America</item>
+    </string-array>
+
+
+    <string-array name="country_des">
+        <item>Argentina is beautiful</item>
+        <item>Bangladesh is beautiful</item>
+        <item>Brazil is beautiful</item>
+        <item>India is beautiful</item>
+        <item>Netherland is beautiful</item>
+        <item>Pakistan is beautiful</item>
+        <item>United Kingdom is beautiful</item>
+        <item>United States of America is beautiful</item>
+    </string-array>
+
+</resources>
